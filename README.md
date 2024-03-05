@@ -1,4 +1,4 @@
-🤖 EJERCICIO | PATFHFINDING UNITY | ING EN VIDEOJUEGOS 🎮
+💻 EJERCICIO | PATFHFINDING UNITY | ING EN VIDEOJUEGOS 🎮
 
 ¡Bienvenidos al ejercicio de Pathfinding en Unity! Este código fue creado especialmente para estudiantes de INGENIERÍA EN VIDEOJUEGOS como parte de la materia de Inteligencia Artificial Aplicada en Videojuegos. 🤖
 
